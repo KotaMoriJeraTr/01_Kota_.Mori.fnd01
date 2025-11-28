@@ -1,0 +1,20 @@
+.square{
+    width: 550px;
+    height: 150px;
+    margin: 0 auto;
+    border: dotted ;
+    background: white;
+}
+
+.money{
+    width: 550px;
+    height: 120px;
+    margin: 0 auto;
+    border: dotted ;
+    margin: 0 auto;
+    background: white;
+}
+
+.body{
+    background-color: rgb(200, 228, 253);
+}
